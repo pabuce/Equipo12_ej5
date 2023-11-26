@@ -22,7 +22,7 @@ El proyecto se ha de desarrollar en grupos de __4 alumnos__, que deberán ser lo
 
 ##Condiciones de entrega
 
-El proyecto se entregará el _viernes 22/12/2023 a las 14:00_ a través del  <a target="_blank" href="campusvirtual.upo.es title="Aula Virtual UPO"> 
+El proyecto se entregará el _viernes 22/12/2023 a las 14:00_ a través del [https://campusvirtual.upo.es] (https://campusvirtual.upo.es).
 
 
  
