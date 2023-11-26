@@ -16,5 +16,13 @@ Para la realización de este proyecto se nos permite el uso de las siguientes te
 2. VISUAL STUDIO CODE
 3. PHPSTORM
 
+## Desarrollo del proyecto
+
+El proyecto se ha de desarrollar en grupos de __4 alumnos__, que deberán ser los mismos que los equipos de EPD del trimestre
+
+##Condiciones de entrega
+
+El proyecto se entregará el _viernes 22/12/2023 a las 14:00_ a través del Aula Virtual UPO <href a="campusvirtual.upo.es> 
+
 
  
